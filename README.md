@@ -1,5 +1,5 @@
 # chat-real-time-electron-node-angular-back
 
-## projeto de chat em tempo real usando node, angular, electron, socket.io ... 
+## projeto uso de api da nasa usando node, angular, electron ... 
 
 ### mais atualizaçoes em breve
